@@ -102,7 +102,8 @@ logo.addEventListener('click', () => {
     logo.classList.add('logo-bounce-active');
     setTimeout(() => {
         logo.classList.remove('logo-bounce-active');
-        window.location.href = "https://aban-007.github.io/hairdo-by-ekkles/booking-system.html";
+        window.location.href = "https://hairdoby-ekkles.github.io/wedding-package/";
+            
     }, 300);
 });
 
