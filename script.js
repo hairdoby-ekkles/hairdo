@@ -102,7 +102,7 @@ logo.addEventListener('click', () => {
     logo.classList.add('logo-bounce-active');
     setTimeout(() => {
         logo.classList.remove('logo-bounce-active');
-        window.location.href = "https://hairdoby-ekkles.github.io/wedding-package/";
+        window.location.href = "https://hairdoby-ekkles.github.io/wedding-package";
             
     }, 300);
 });
